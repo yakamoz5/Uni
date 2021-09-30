@@ -1,5 +1,9 @@
 # Deep Fake Generation and Detection
 ## Overview
+
+Group members: Ana Radutoiu (ana.radutoiu@tum.de) & Emanuel Ramneantu (emanuel.ramneantu@tum.de)
+
+
 ![Semantic description of image](overview_project.png)
 
 In this project, we analyzed and recreated the main challenges in the task of Deep Fake Detection. The project setup can be seen in the figure above.
